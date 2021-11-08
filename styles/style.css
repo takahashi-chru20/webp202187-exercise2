@@ -1,0 +1,40 @@
+
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+p,
+li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: rgb(92, 114, 49);
+}
+li {
+    list-style-type: square;
+  }
+html{
+    background-color:rgb(255, 243, 176);
+}
+
+
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: #bee087;
+    text-shadow: 3px 3px 1px rgb(73, 73, 73);
+}
+
+h2{
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(159, 184, 110);
+}
+
+img{
+    display: black;
+    margin: 0 auto;
+    height: 480px;
+}
